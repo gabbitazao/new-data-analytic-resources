@@ -1,2 +1,5 @@
-# new-data-analytic-resources
-Resource center for my data class
+# Data resource I discovered
+
+##Articles
+
+[cool data to learn]
