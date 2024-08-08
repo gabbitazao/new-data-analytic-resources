@@ -1,5 +1,5 @@
 # Data resource I discovered
 
-##Articles
+## Articles
 
 [cool data to learn]
